@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Bot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-wrapper">
+        <div class="chat-container">
+            <div class="chat-title">LLM Chat Bot</div>
+            <div class="chat-box" id="chat-box-1">
+                <!-- Messages will be displayed here -->
+            </div>
+            <div class="chat-input-area">
+                <input type="text" id="user-input-1" class="chat-input" placeholder="Type your message here...">
+                <button class="chat-button" onclick="sendMessage(1)">Send</button>
+            </div>
+            <button class="clear-button" onclick="clearChat(1)">Clear</button>
+        </div>
+
+        <div class="chat-container">
+            <div class="chat-title">Normal Chat Bot</div>
+            <div class="chat-box" id="chat-box-2">
+                <!-- Messages will be displayed here -->
+            </div>
+            <div class="chat-input-area">
+                <input type="text" id="user-input-2" class="chat-input" placeholder="Type your message here...">
+                <button class="chat-button" onclick="sendMessage(2)">Send</button>
+            </div>
+            <button class="clear-button" onclick="clearChat(2)">Clear</button>
+        </div>
+    </div>
+
+</body>
+<script src="/static/script.js"></script>
+</html>

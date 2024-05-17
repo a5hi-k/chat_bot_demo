@@ -1,0 +1,48 @@
+{
+    "questions":[
+        {
+            "question": "hai",
+            "answer": "Hello, Welcome to Wonder store. How may I help you today?"
+        },
+        {
+            "question": "what is wonder store?",
+            "answer": "Wonder store is an e-commerce food processing and delivery shop which produces and delivers mouth watering food items of your choice at your doorstep. We are located at vaduthala, Ernakulam district, kerala state, India."
+        },
+        {
+            "question": "is delivery option available?",
+            "answer": "Yes, we do have delivery options. However, our delivery is limited to a 10 km radius around our store location."
+        },
+        {
+            "question": "what are the main products or trending products?",
+            "answer": "Our best-selling products include chicken and mutton biriyani, momos, cutlet, and masala dosa. You can also find seasonal and trending food items in the trending section of our website."
+        },
+        {
+            "question": "where can i find the offer products?",
+            "answer": "You can find products with ongoing offers in the 'Offers' section of our website."
+        },
+        {
+            "question": "what are the trending products?",
+            "answer": "Our trending products include:Butter Chicken,Biryani,Chicken 65Paneer Tikka, MasalaTandoori, ChickenChilli, Chicken,These dishes are popular among our customers and are highly rated for their taste and quality."
+        },
+        {
+            "question": "where is the location of the store?",
+            "answer": "Our store is located at Vaduthala, Ernakulam district, Kerala state, India."
+        },
+        {
+            "question": "do you have dining options?",
+            "answer": "Yes, we have an ambient lake view dining option available at our location. You can enjoy your meal while taking in the scenic beauty of the lake."
+        },
+        {
+            "question": "do you provide catering products?",
+            "answer": "Yes, we do provide catering products. We offer a wide range of catering options to suit your needs, whether it's for a small gathering or a large event. Our catering menu includes a variety of dishes, including appetizers, main courses, desserts, and beverages."
+        },
+        {
+            "question": "how to contact you?",
+            "answer": "You can contact us through our website, phone number, or email id. Our contact information is as follows:"
+        },
+        {
+            "question": "thank you",
+            "answer": "You're welcome! Is there anything else I can assist you with today?"
+        }
+    ]
+}
